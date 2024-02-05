@@ -1,0 +1,79 @@
+@media (width >= 375px) {
+    main {
+      width: 327px;
+    }
+  }
+  
+  @media (width >= 1440px) {
+    main {
+      width: 412px;
+      padding: 32px;
+      border-radius: 30px;
+    }
+  
+    .icon {
+      width: 48px;
+      height: 48px;
+    }
+  
+    .text {
+      gap: 7px;
+      margin-top: 14px;
+    }
+  
+    .text h1 {
+      font-size: 28px;
+      height: 43px;
+    }
+  
+    .text p {
+      font-size: 15px;
+      line-height: 24px;
+    }
+  
+    .numbers {
+      gap: 21px;
+    }
+  
+    .numbers .rating_numbers {
+      width: 51px;
+      height: 51px;
+      font-size: 16px;
+      line-height: 24px;
+      letter-spacing: 0.2px;
+    }
+  
+    button {
+      font-size: 15px;
+      letter-spacing: 2px;
+    }
+  
+    .result {
+      gap: 32px;
+      width: 340px;
+      margin: 13px 0;
+    }
+  
+    .select{
+      gap: 32px;
+    }
+  
+    #rating {
+      width: 193px;
+      font-size: 15px;
+      line-height: 24px;
+    }
+  
+    .thanks {
+      gap: 7px;
+    }
+  
+    .thanks h1  {
+      font-size: 28px;
+    }
+  
+    .thanks p {
+      font-size: 15px;
+      line-height: 24px;
+    }
+  }
